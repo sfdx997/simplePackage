@@ -1,0 +1,16 @@
+pipeline
+{
+
+    stage('one')
+    {
+        println "test"
+
+    }
+
+        stage('two')
+    {
+        println "test"
+
+    }
+
+}
