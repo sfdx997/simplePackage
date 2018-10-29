@@ -9,7 +9,9 @@ pipeline
 
         stage('two')
     {
-        println "test"
+        
+        
+
 
     }
 
